@@ -34,6 +34,19 @@ spiders/              # a directory where you'll later put your spiders
 __init__.py
 ```
 
+### Getting started with your first spider
+Now, inside the spiders folder, we create a file called  **quotes_ spider.py** </br>
+
+Spiders are classes that you define and that Scrapy uses to scrape information from a website. They must subclass Spider and define the initial requests to make, optionally how to follow links in the pages, and how to parse the downloaded page content to extract data. </br>
+Refer the code to see more. </br>
+
+### Running your first spider
+After creating your first spider, to run and retrieve the data, run the following command on your terminal: </br>
+```
+Scrapy crawl quotes
+```
+
+
 
 
 
