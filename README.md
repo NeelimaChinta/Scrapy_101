@@ -13,9 +13,8 @@ To install scrapy run the following command on your terminal or command prompt: 
 ```
 Pip install scrapy
 ```
-</br>
 This will install scrapy. </br>
-**Note:** If you're on windows, make sure to install **PyWin32**.</br>
+**Note:**  If you're on windows, make sure to install  **PyWin32**. </br>
 
 
 
